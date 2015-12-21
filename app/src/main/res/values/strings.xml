@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KushEquilizer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="flat">FLAT</string>
+    <string name="bassboost">BASS</string>
+    <string name="enable">ENABLE</string>
+
+</resources>
