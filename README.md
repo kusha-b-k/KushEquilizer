@@ -23,6 +23,11 @@ https://github.com/kusha-b-k/KushEquilizer/
 ![alt tag](https://github.com/kusha-b-k/KushEquilizer/blob/master/screenshots/screenshot1.png)
 
 
+
+
+when we click on the flat button all settings will come back to the normal state,  as we can see the demo in the below screenshot
+
+
 ![alt tag](https://github.com/kusha-b-k/KushEquilizer/blob/master/screenshots/screen2.png)
 
 
