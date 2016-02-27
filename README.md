@@ -9,7 +9,7 @@
 #KushEquilizer
 
 #About
-simple android  Equilizer application 
+ANDROID audio Equilizer application 
 
 
 #Get the code
