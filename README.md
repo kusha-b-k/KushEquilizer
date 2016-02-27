@@ -12,12 +12,6 @@
 ANDROID audio Equilizer application 
 
 
-#Get the code
-Clone the git repository available here on github. 
-
-https://github.com/kusha-b-k/KushEquilizer/
-
-
 #Screenshot
 
 ![alt tag](https://github.com/kusha-b-k/KushEquilizer/blob/master/screenshots/screenshot1.png)
