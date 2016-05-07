@@ -9,7 +9,7 @@
 #KushEquilizer
 
 #About
-ANDROID audio Equilizer application 
+ANDROID  audio Equilizer application 
 
 
 #Screenshot
@@ -30,18 +30,6 @@ when we click on the flat button all settings will come back to the normal state
 ![alt tag](https://github.com/kusha-b-k/KushEquilizer/blob/master/screenshots/screen3.png)
 
 
-#Permited
-commercial-use - This software and derivatives may be used for commercial purposes.
-
-modifications - This software may be modified.
-
-distribution - You may distribute this software.
-
-sublicense - You may grant a sublicense to modify and distribute this software to third parties not included in the license.
-
-private-use - You may use and modify the software without distributing it.
-
-patent-use - This license provides an express grant of patent rights from the contributor to the recipient.
 
 #License
 
